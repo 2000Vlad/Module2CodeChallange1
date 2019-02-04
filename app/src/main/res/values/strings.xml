@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Module2CodeChallange1</string>
+    <string name="edit1">This is a new EditText</string>
+    <string name="edit">This is an EditText</string>
+    <string name="but1Text">THIS IS A BUTTON</string>
+    <string name="textview1text">This is an orange TextView</string>
+    <string name="textview2text">This is a green TextView</string>
+</resources>

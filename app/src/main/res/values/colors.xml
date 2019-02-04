@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="but1Color">#7BCCC6</color>
+    <color name="but2Color">#A2C89C</color>
+    <color name="textView1Color">#FC987E</color>
+    <color name="textView1TextColor">#FFFFFF</color>
+    <color name="textView2Color">#CDEDD7</color>
+    <color name="textView3Color">#7ACBC6</color>
+    <color name="textView3TextColor">#FFFFFF</color>
+    <color name="midLayoutColor">#FBC962</color>
+    <color name="separatorColor">#799FB7</color>
+    <color name="bottomLayoutColor">#7BCCC6</color>
+</resources>
